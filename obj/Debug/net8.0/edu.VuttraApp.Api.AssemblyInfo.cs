@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("edu.VuttraApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f312419fcdb9c493617f8e1d54c85a9d5752640e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d2ef8ac6ad26b7260944944c572644c0aac339")]
 [assembly: System.Reflection.AssemblyProductAttribute("edu.VuttraApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("edu.VuttraApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
