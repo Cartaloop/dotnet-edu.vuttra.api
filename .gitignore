@@ -1,5 +1,12 @@
-*.idea
-*bin
-*obj
-*appsetings.Development.json
-*appsetings.json
+# Ignorar pasta .idea
+.idea/
+
+# Ignorar pasta obj
+obj/
+
+# Ignorar pasta bin
+bin/
+
+# Ignorar arquivos appsettings.Development.json e appsettings.json
+appsettings.Development.json
+appsettings.json
