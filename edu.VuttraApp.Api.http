@@ -1,0 +1,6 @@
+@edu.VuttraApp.Api_HostAddress = http://localhost:5094
+
+GET {{edu.VuttraApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

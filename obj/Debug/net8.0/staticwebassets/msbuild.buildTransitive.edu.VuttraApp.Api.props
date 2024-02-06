@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\edu.VuttraApp.Api.props" />
+</Project>
